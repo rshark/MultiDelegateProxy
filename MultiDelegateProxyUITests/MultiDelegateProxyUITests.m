@@ -2,7 +2,7 @@
 //  MultiDelegateProxyUITests.m
 //  MultiDelegateProxyUITests
 //
-//  Created by 冯波 on 2017/4/20.
+//  Created by Owen on 2017/4/20.
 //  Copyright © 2017年 Owen. All rights reserved.
 //
 
